@@ -23,16 +23,17 @@
 2. Using Console, create and Application
 3. Get a free domain using FreeNom.com and add the DNS to the Firebase Console Hosting Tab
 4. Now using CLI - (Change to the root dir)
-..* npm install -g firebase
-..* firebase init  
-..* firebase use --add
-..* firebase serve (To check application in the LocalHost)
-..* firebase deploy (To host in the domain)
+5. Enter following commads in the command line
+* npm install -g firebase
+* firebase init  
+* firebase use --add
+* firebase serve (To check application in the LocalHost)
+* firebase deploy (To host in the domain)
 
 ## Future Scope
 * This application is best suited for the start-ups as it can be embedded in any application easily as it is using only HTML , CSS and JS and all the tags defined are self-explaintary and can be modified according to the requirements of organisation.
 *The hashcode of a particular image will help in clearing the reductant data as only one copy of a particular image is downloaded.
  
-## DEMO [NUCLEON CHAT](www.nucleon.cf "Nucleon Chat")
+## [DEMO NUCLEON CHAT](www.nucleon.cf "Nucleon Chat")
  
  
