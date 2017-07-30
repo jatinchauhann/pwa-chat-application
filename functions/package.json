@@ -1,0 +1,8 @@
+{
+  "name": "nucleon-codelab",
+  "description": "Nucleon",
+  "dependencies": {
+    "firebase-admin": "^4.1.1",
+    "firebase-functions": "^0.5.1"
+  }
+}
